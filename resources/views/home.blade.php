@@ -134,6 +134,31 @@
                                         </div>
                                     </td>
                                 </tr>
+                                <tr>
+                                    <td class="text-nowrap fw-medium">Types</td>
+                                    <td>
+                                        <div class="d-flex">
+                                            <div class="form-check me-3 me-lg-5">
+                                                <input class="form-check-input" type="checkbox" id="userManagementRead" />
+                                                <label class="form-check-label" for="userManagementRead">
+                                                    Create
+                                                </label>
+                                            </div>
+                                            <div class="form-check me-3 me-lg-5">
+                                                <input class="form-check-input" type="checkbox" id="userManagementRead" />
+                                                <label class="form-check-label" for="userManagementRead">
+                                                    Edit
+                                                </label>
+                                            </div>
+                                            <div class="form-check me-3 me-lg-5">
+                                                <input class="form-check-input" type="checkbox" id="userManagementRead" />
+                                                <label class="form-check-label" for="userManagementRead">
+                                                    View
+                                                </label>
+                                            </div>
+                                        </div>
+                                    </td>
+                                </tr>
                             </tbody>
                         </table>
                     </div>
